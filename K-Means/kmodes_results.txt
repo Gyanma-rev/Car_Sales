@@ -1,0 +1,76 @@
+K-Modes Model Results
+=================================
+
+Individual Model Costs and Centroids:
+Clusters: 2, Random State: 42
+Cost: 4576000.0
+Centroids:
+['ford' 'altima' '2013' 'se' 'sedan' 'automatic' 'nissan-infiniti-lt'
+ '11000' '1.9' '1.0' 'black' 'black' '11600']
+['toyota' 'camry' '2012' 'base' 'suv' 'automatic' 'nissan-infiniti-lt'
+ '13500' '3.5' '1.0' 'white' 'gray' '13600']
+
+Clusters: 2, Random State: 45
+Cost: 4576000.0
+Centroids:
+['ford' 'altima' '2013' 'se' 'sedan' 'automatic' 'nissan-infiniti-lt'
+ '11000' '1.9' '1.0' 'black' 'black' '11600']
+['toyota' 'camry' '2012' 'base' 'suv' 'automatic' 'nissan-infiniti-lt'
+ '13500' '3.5' '1.0' 'white' 'gray' '13600']
+
+Clusters: 3, Random State: 42
+Cost: 4480473.0
+Centroids:
+['ford' 'fusion' '2013' 'se' 'sedan' 'automatic'
+ 'ford-motor-credit-companyllc' '11000' '1.9' '1.0' 'black' 'black'
+ '11600']
+['toyota' 'camry' '2012' 'base' 'suv' 'automatic' 'the-hertz-corporation'
+ '13500' '3.5' '1.0' 'white' 'gray' '13600']
+['nissan' 'altima' '2014' '2.5-s' 'sedan' 'automatic' 'nissan-infiniti-lt'
+ '16000' '3.8' '1.0' 'gray' 'gray' '12150']
+
+Clusters: 3, Random State: 45
+Cost: 4480473.0
+Centroids:
+['ford' 'fusion' '2013' 'se' 'sedan' 'automatic'
+ 'ford-motor-credit-companyllc' '11000' '1.9' '1.0' 'black' 'black'
+ '11600']
+['toyota' 'camry' '2012' 'base' 'suv' 'automatic' 'the-hertz-corporation'
+ '13500' '3.5' '1.0' 'white' 'gray' '13600']
+['nissan' 'altima' '2014' '2.5-s' 'sedan' 'automatic' 'nissan-infiniti-lt'
+ '16000' '3.8' '1.0' 'gray' 'gray' '12150']
+
+Clusters: 4, Random State: 42
+Cost: 4404388.0
+Centroids:
+['ford' 'fusion' '2013' 'se' 'sedan' 'automatic'
+ 'ford-motor-credit-companyllc' '11000' '1.9' '1.0' 'black' 'black'
+ '11300']
+['toyota' 'camry' '2012' 'base' 'suv' 'automatic' 'the-hertz-corporation'
+ '13500' '3.5' '1.0' 'white' 'gray' '13600']
+['nissan' 'altima' '2014' '2.5-s' 'sedan' 'automatic' 'nissan-infiniti-lt'
+ '16000' '3.8' '1.0' 'gray' 'gray' '12150']
+['chevrolet' 'malibu' '2012' 'lt' 'sedan' 'automatic' 'santander-consumer'
+ '11500' '4.2' '1.0' 'white' 'black' '10850']
+
+Clusters: 4, Random State: 45
+Cost: 4404388.0
+Centroids:
+['ford' 'fusion' '2013' 'se' 'sedan' 'automatic'
+ 'ford-motor-credit-companyllc' '11000' '1.9' '1.0' 'black' 'black'
+ '11300']
+['toyota' 'camry' '2012' 'base' 'suv' 'automatic' 'the-hertz-corporation'
+ '13500' '3.5' '1.0' 'white' 'gray' '13600']
+['nissan' 'altima' '2014' '2.5-s' 'sedan' 'automatic' 'nissan-infiniti-lt'
+ '16000' '3.8' '1.0' 'gray' 'gray' '12150']
+['chevrolet' 'malibu' '2012' 'lt' 'sedan' 'automatic' 'santander-consumer'
+ '11500' '4.2' '1.0' 'white' 'black' '10850']
+
+Average Costs by Number of Clusters:
+Clusters: 2, Average Cost: 4576000.0
+Clusters: 3, Average Cost: 4480473.0
+Clusters: 4, Average Cost: 4404388.0
+
+Average Costs by Random State:
+Random State: 42, Average Cost: 4486953.666666667
+Random State: 45, Average Cost: 4486953.666666667

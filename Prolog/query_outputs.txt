@@ -1,0 +1,625 @@
+Car: wba6b2c57ed129731
+
+wba6b2c57ed129731 was not sold repeatedly
+
+wba6b2c57ed129731 was sold within one year
+
+wba6b2c57ed129731 was sold above its MMR
+
+wba6b2c57ed129731's most recent sale code is:
+415918
+wba6b2c57ed129731's most recent seller is:
+financial-services-remarketing-(lease)
+financial-services-remarketing-(lease) is a high volume seller.
+
+wba6b2c57ed129731's make is:
+bmw
+bmw is a highly traded make.
+
+wba6b2c57ed129731's current color is:
+gray
+
+wba6b2c57ed129731's current interior color is:
+black
+
+wba6b2c57ed129731's color doesn't match its interior color.
+
+wba6b2c57ed129731's current MMR is:
+66000
+wba6b2c57ed129731's current selling price is:
+67000
+
+wba6b2c57ed129731's current condition is:
+4.3
+
+wba6b2c57ed129731's current odometer is:
+2641.0
+
+
+wba6b2c57ed129731 is not the same make as wp0ca2988xu629622
+
+wba6b2c57ed129731 is not the same color as wp0ca2988xu629622
+
+wba6b2c57ed129731 is the same interior color as wp0ca2988xu629622
+
+wba6b2c57ed129731 is not the same market price as wp0ca2988xu629622
+
+wba6b2c57ed129731 is not the same selling price as wp0ca2988xu629622
+
+wba6b2c57ed129731 is not the same condition as wp0ca2988xu629622
+
+wba6b2c57ed129731 is not the same odometer as wp0ca2988xu629622
+
+wba6b2c57ed129731 is not the same production year as wp0ca2988xu629622
+
+wba6b2c57ed129731 is not the same body as wp0ca2988xu629622
+
+wba6b2c57ed129731 is the same transmission as wp0ca2988xu629622
+
+
+wba6b2c57ed129731 is not the same make as 2c4rdgeg8er151143
+
+wba6b2c57ed129731 is not the same color as 2c4rdgeg8er151143
+
+wba6b2c57ed129731 is the same interior color as 2c4rdgeg8er151143
+
+wba6b2c57ed129731 is not the same market price as 2c4rdgeg8er151143
+
+wba6b2c57ed129731 is not the same selling price as 2c4rdgeg8er151143
+
+wba6b2c57ed129731 is the same condition as 2c4rdgeg8er151143
+
+wba6b2c57ed129731 is not the same odometer as 2c4rdgeg8er151143
+
+wba6b2c57ed129731 is the same production year as 2c4rdgeg8er151143
+
+wba6b2c57ed129731 is not the same body as 2c4rdgeg8er151143
+
+wba6b2c57ed129731 is the same transmission as 2c4rdgeg8er151143
+
+
+wba6b2c57ed129731 is the same make as wbayp9c59ed169280
+
+wba6b2c57ed129731 is not the same color as wbayp9c59ed169280
+
+wba6b2c57ed129731 is the same interior color as wbayp9c59ed169280
+
+wba6b2c57ed129731 is the same market price as wbayp9c59ed169280
+
+wba6b2c57ed129731 is not the same selling price as wbayp9c59ed169280
+
+wba6b2c57ed129731 is not the same condition as wbayp9c59ed169280
+
+wba6b2c57ed129731 is not the same odometer as wbayp9c59ed169280
+
+wba6b2c57ed129731 is the same production year as wbayp9c59ed169280
+
+wba6b2c57ed129731 is not the same body as wbayp9c59ed169280
+
+wba6b2c57ed129731 is the same transmission as wbayp9c59ed169280
+
+
+wba6b2c57ed129731 is not the same make as 5npeb4acxdh744455
+
+wba6b2c57ed129731 is the same color as 5npeb4acxdh744455
+
+wba6b2c57ed129731 is not the same interior color as 5npeb4acxdh744455
+
+wba6b2c57ed129731 is not the same market price as 5npeb4acxdh744455
+
+wba6b2c57ed129731 is not the same selling price as 5npeb4acxdh744455
+
+wba6b2c57ed129731 is not the same condition as 5npeb4acxdh744455
+
+wba6b2c57ed129731 is not the same odometer as 5npeb4acxdh744455
+
+wba6b2c57ed129731 is not the same production year as 5npeb4acxdh744455
+
+wba6b2c57ed129731 is the same body as 5npeb4acxdh744455
+
+wba6b2c57ed129731 is the same transmission as 5npeb4acxdh744455
+
+
+
+
+
+Car: wp0ca2988xu629622
+
+wp0ca2988xu629622 was sold repeatedly
+
+wp0ca2988xu629622 was sold within one year
+
+wp0ca2988xu629622 was sold below its MMR
+
+wp0ca2988xu629622's most recent sale code is:
+777543
+wp0ca2988xu629622's most recent seller is:
+econo-automotive-center-inc
+econo-automotive-center-inc is not a high volume seller.
+
+wp0ca2988xu629622's make is:
+porsche
+porsche is a highly traded make.
+
+wp0ca2988xu629622's current color is:
+silver
+
+wp0ca2988xu629622's current interior color is:
+black
+
+wp0ca2988xu629622's color doesn't match its interior color.
+
+wp0ca2988xu629622's current MMR is:
+6625
+wp0ca2988xu629622's current selling price is:
+6000
+
+wp0ca2988xu629622's current condition is:
+3.7
+
+wp0ca2988xu629622's current odometer is:
+82176.0
+
+
+wp0ca2988xu629622 is not the same make as wba6b2c57ed129731
+
+wp0ca2988xu629622 is not the same color as wba6b2c57ed129731
+
+wp0ca2988xu629622 is the same interior color as wba6b2c57ed129731
+
+wp0ca2988xu629622 is not the same market price as wba6b2c57ed129731
+
+wp0ca2988xu629622 is not the same selling price as wba6b2c57ed129731
+
+wp0ca2988xu629622 is not the same condition as wba6b2c57ed129731
+
+wp0ca2988xu629622 is not the same odometer as wba6b2c57ed129731
+
+wp0ca2988xu629622 is not the same production year as wba6b2c57ed129731
+
+wp0ca2988xu629622 is not the same body as wba6b2c57ed129731
+
+wp0ca2988xu629622 is the same transmission as wba6b2c57ed129731
+
+
+wp0ca2988xu629622 is not the same make as 2c4rdgeg8er151143
+
+wp0ca2988xu629622 is not the same color as 2c4rdgeg8er151143
+
+wp0ca2988xu629622 is the same interior color as 2c4rdgeg8er151143
+
+wp0ca2988xu629622 is not the same market price as 2c4rdgeg8er151143
+
+wp0ca2988xu629622 is not the same selling price as 2c4rdgeg8er151143
+
+wp0ca2988xu629622 is not the same condition as 2c4rdgeg8er151143
+
+wp0ca2988xu629622 is not the same odometer as 2c4rdgeg8er151143
+
+wp0ca2988xu629622 is not the same production year as 2c4rdgeg8er151143
+
+wp0ca2988xu629622 is not the same body as 2c4rdgeg8er151143
+
+wp0ca2988xu629622 is the same transmission as 2c4rdgeg8er151143
+
+
+wp0ca2988xu629622 is not the same make as wbayp9c59ed169280
+
+wp0ca2988xu629622 is not the same color as wbayp9c59ed169280
+
+wp0ca2988xu629622 is the same interior color as wbayp9c59ed169280
+
+wp0ca2988xu629622 is not the same market price as wbayp9c59ed169280
+
+wp0ca2988xu629622 is not the same selling price as wbayp9c59ed169280
+
+wp0ca2988xu629622 is the same condition as wbayp9c59ed169280
+
+wp0ca2988xu629622 is not the same odometer as wbayp9c59ed169280
+
+wp0ca2988xu629622 is not the same production year as wbayp9c59ed169280
+
+wp0ca2988xu629622 is the same body as wbayp9c59ed169280
+
+wp0ca2988xu629622 is the same transmission as wbayp9c59ed169280
+
+
+wp0ca2988xu629622 is not the same make as 5npeb4acxdh744455
+
+wp0ca2988xu629622 is not the same color as 5npeb4acxdh744455
+
+wp0ca2988xu629622 is not the same interior color as 5npeb4acxdh744455
+
+wp0ca2988xu629622 is not the same market price as 5npeb4acxdh744455
+
+wp0ca2988xu629622 is not the same selling price as 5npeb4acxdh744455
+
+wp0ca2988xu629622 is not the same condition as 5npeb4acxdh744455
+
+wp0ca2988xu629622 is not the same odometer as 5npeb4acxdh744455
+
+wp0ca2988xu629622 is not the same production year as 5npeb4acxdh744455
+
+wp0ca2988xu629622 is not the same body as 5npeb4acxdh744455
+
+wp0ca2988xu629622 is the same transmission as 5npeb4acxdh744455
+
+
+
+
+
+Car: 2c4rdgeg8er151143
+
+2c4rdgeg8er151143 was sold repeatedly
+
+2c4rdgeg8er151143 was sold within one year
+
+2c4rdgeg8er151143 was sold above its MMR
+
+2c4rdgeg8er151143's most recent sale code is:
+104435
+2c4rdgeg8er151143's most recent seller is:
+enterprise-veh-exchange/rental
+enterprise-veh-exchange/rental is a high volume seller.
+
+2c4rdgeg8er151143's make is:
+dodge
+dodge is a highly traded make.
+
+2c4rdgeg8er151143's current color is:
+unknown
+
+2c4rdgeg8er151143's current interior color is:
+black
+
+2c4rdgeg8er151143's color doesn't match its interior color.
+
+2c4rdgeg8er151143's current MMR is:
+17650
+2c4rdgeg8er151143's current selling price is:
+17800
+
+2c4rdgeg8er151143's current condition is:
+4.3
+
+2c4rdgeg8er151143's current odometer is:
+39155.0
+
+
+2c4rdgeg8er151143 is not the same make as wba6b2c57ed129731
+
+2c4rdgeg8er151143 is not the same color as wba6b2c57ed129731
+
+2c4rdgeg8er151143 is the same interior color as wba6b2c57ed129731
+
+2c4rdgeg8er151143 is not the same market price as wba6b2c57ed129731
+
+2c4rdgeg8er151143 is not the same selling price as wba6b2c57ed129731
+
+2c4rdgeg8er151143 is the same condition as wba6b2c57ed129731
+
+2c4rdgeg8er151143 is not the same odometer as wba6b2c57ed129731
+
+2c4rdgeg8er151143 is the same production year as wba6b2c57ed129731
+
+2c4rdgeg8er151143 is not the same body as wba6b2c57ed129731
+
+2c4rdgeg8er151143 is the same transmission as wba6b2c57ed129731
+
+
+2c4rdgeg8er151143 is not the same make as wp0ca2988xu629622
+
+2c4rdgeg8er151143 is not the same color as wp0ca2988xu629622
+
+2c4rdgeg8er151143 is the same interior color as wp0ca2988xu629622
+
+2c4rdgeg8er151143 is not the same market price as wp0ca2988xu629622
+
+2c4rdgeg8er151143 is not the same selling price as wp0ca2988xu629622
+
+2c4rdgeg8er151143 is not the same condition as wp0ca2988xu629622
+
+2c4rdgeg8er151143 is not the same odometer as wp0ca2988xu629622
+
+2c4rdgeg8er151143 is not the same production year as wp0ca2988xu629622
+
+2c4rdgeg8er151143 is not the same body as wp0ca2988xu629622
+
+2c4rdgeg8er151143 is the same transmission as wp0ca2988xu629622
+
+
+2c4rdgeg8er151143 is not the same make as wbayp9c59ed169280
+
+2c4rdgeg8er151143 is not the same color as wbayp9c59ed169280
+
+2c4rdgeg8er151143 is the same interior color as wbayp9c59ed169280
+
+2c4rdgeg8er151143 is not the same market price as wbayp9c59ed169280
+
+2c4rdgeg8er151143 is not the same selling price as wbayp9c59ed169280
+
+2c4rdgeg8er151143 is not the same condition as wbayp9c59ed169280
+
+2c4rdgeg8er151143 is not the same odometer as wbayp9c59ed169280
+
+2c4rdgeg8er151143 is the same production year as wbayp9c59ed169280
+
+2c4rdgeg8er151143 is not the same body as wbayp9c59ed169280
+
+2c4rdgeg8er151143 is the same transmission as wbayp9c59ed169280
+
+
+2c4rdgeg8er151143 is not the same make as 5npeb4acxdh744455
+
+2c4rdgeg8er151143 is not the same color as 5npeb4acxdh744455
+
+2c4rdgeg8er151143 is not the same interior color as 5npeb4acxdh744455
+
+2c4rdgeg8er151143 is not the same market price as 5npeb4acxdh744455
+
+2c4rdgeg8er151143 is not the same selling price as 5npeb4acxdh744455
+
+2c4rdgeg8er151143 is not the same condition as 5npeb4acxdh744455
+
+2c4rdgeg8er151143 is not the same odometer as 5npeb4acxdh744455
+
+2c4rdgeg8er151143 is not the same production year as 5npeb4acxdh744455
+
+2c4rdgeg8er151143 is not the same body as 5npeb4acxdh744455
+
+2c4rdgeg8er151143 is the same transmission as 5npeb4acxdh744455
+
+
+
+
+
+Car: wbayp9c59ed169280
+
+wbayp9c59ed169280 was not sold repeatedly
+
+wbayp9c59ed169280 was sold within one year
+
+wbayp9c59ed169280 was sold below its MMR
+
+wbayp9c59ed169280's most recent sale code is:
+167556
+wbayp9c59ed169280's most recent seller is:
+the-hertz-corporation
+the-hertz-corporation is a high volume seller.
+
+wbayp9c59ed169280's make is:
+bmw
+bmw is a highly traded make.
+
+wbayp9c59ed169280's current color is:
+white
+
+wbayp9c59ed169280's current interior color is:
+black
+
+wbayp9c59ed169280's color doesn't match its interior color.
+
+wbayp9c59ed169280's current MMR is:
+66000
+wbayp9c59ed169280's current selling price is:
+65000
+
+wbayp9c59ed169280's current condition is:
+3.7
+
+wbayp9c59ed169280's current odometer is:
+15727.0
+
+
+wbayp9c59ed169280 is the same make as wba6b2c57ed129731
+
+wbayp9c59ed169280 is not the same color as wba6b2c57ed129731
+
+wbayp9c59ed169280 is the same interior color as wba6b2c57ed129731
+
+wbayp9c59ed169280 is the same market price as wba6b2c57ed129731
+
+wbayp9c59ed169280 is not the same selling price as wba6b2c57ed129731
+
+wbayp9c59ed169280 is not the same condition as wba6b2c57ed129731
+
+wbayp9c59ed169280 is not the same odometer as wba6b2c57ed129731
+
+wbayp9c59ed169280 is the same production year as wba6b2c57ed129731
+
+wbayp9c59ed169280 is not the same body as wba6b2c57ed129731
+
+wbayp9c59ed169280 is the same transmission as wba6b2c57ed129731
+
+
+wbayp9c59ed169280 is not the same make as wp0ca2988xu629622
+
+wbayp9c59ed169280 is not the same color as wp0ca2988xu629622
+
+wbayp9c59ed169280 is the same interior color as wp0ca2988xu629622
+
+wbayp9c59ed169280 is not the same market price as wp0ca2988xu629622
+
+wbayp9c59ed169280 is not the same selling price as wp0ca2988xu629622
+
+wbayp9c59ed169280 is the same condition as wp0ca2988xu629622
+
+wbayp9c59ed169280 is not the same odometer as wp0ca2988xu629622
+
+wbayp9c59ed169280 is not the same production year as wp0ca2988xu629622
+
+wbayp9c59ed169280 is the same body as wp0ca2988xu629622
+
+wbayp9c59ed169280 is the same transmission as wp0ca2988xu629622
+
+
+wbayp9c59ed169280 is not the same make as 2c4rdgeg8er151143
+
+wbayp9c59ed169280 is not the same color as 2c4rdgeg8er151143
+
+wbayp9c59ed169280 is the same interior color as 2c4rdgeg8er151143
+
+wbayp9c59ed169280 is not the same market price as 2c4rdgeg8er151143
+
+wbayp9c59ed169280 is not the same selling price as 2c4rdgeg8er151143
+
+wbayp9c59ed169280 is not the same condition as 2c4rdgeg8er151143
+
+wbayp9c59ed169280 is not the same odometer as 2c4rdgeg8er151143
+
+wbayp9c59ed169280 is the same production year as 2c4rdgeg8er151143
+
+wbayp9c59ed169280 is not the same body as 2c4rdgeg8er151143
+
+wbayp9c59ed169280 is the same transmission as 2c4rdgeg8er151143
+
+
+wbayp9c59ed169280 is not the same make as 5npeb4acxdh744455
+
+wbayp9c59ed169280 is not the same color as 5npeb4acxdh744455
+
+wbayp9c59ed169280 is not the same interior color as 5npeb4acxdh744455
+
+wbayp9c59ed169280 is not the same market price as 5npeb4acxdh744455
+
+wbayp9c59ed169280 is not the same selling price as 5npeb4acxdh744455
+
+wbayp9c59ed169280 is not the same condition as 5npeb4acxdh744455
+
+wbayp9c59ed169280 is not the same odometer as 5npeb4acxdh744455
+
+wbayp9c59ed169280 is not the same production year as 5npeb4acxdh744455
+
+wbayp9c59ed169280 is not the same body as 5npeb4acxdh744455
+
+wbayp9c59ed169280 is the same transmission as 5npeb4acxdh744455
+
+
+
+
+
+Car: 5npeb4acxdh744455
+
+5npeb4acxdh744455 was not sold repeatedly
+
+5npeb4acxdh744455 was sold within one year
+
+5npeb4acxdh744455 was sold above its MMR
+
+5npeb4acxdh744455's most recent sale code is:
+616067
+5npeb4acxdh744455's most recent seller is:
+avis-corporation
+avis-corporation is a high volume seller.
+
+5npeb4acxdh744455's make is:
+hyundai
+hyundai is a highly traded make.
+
+5npeb4acxdh744455's current color is:
+gray
+
+5npeb4acxdh744455's current interior color is:
+gray
+
+5npeb4acxdh744455's color matches its interior color.
+
+5npeb4acxdh744455's current MMR is:
+11800
+5npeb4acxdh744455's current selling price is:
+11900
+
+5npeb4acxdh744455's current condition is:
+3.5
+
+5npeb4acxdh744455's current odometer is:
+41888.0
+
+
+5npeb4acxdh744455 is not the same make as wba6b2c57ed129731
+
+5npeb4acxdh744455 is the same color as wba6b2c57ed129731
+
+5npeb4acxdh744455 is not the same interior color as wba6b2c57ed129731
+
+5npeb4acxdh744455 is not the same market price as wba6b2c57ed129731
+
+5npeb4acxdh744455 is not the same selling price as wba6b2c57ed129731
+
+5npeb4acxdh744455 is not the same condition as wba6b2c57ed129731
+
+5npeb4acxdh744455 is not the same odometer as wba6b2c57ed129731
+
+5npeb4acxdh744455 is not the same production year as wba6b2c57ed129731
+
+5npeb4acxdh744455 is the same body as wba6b2c57ed129731
+
+5npeb4acxdh744455 is the same transmission as wba6b2c57ed129731
+
+
+5npeb4acxdh744455 is not the same make as wp0ca2988xu629622
+
+5npeb4acxdh744455 is not the same color as wp0ca2988xu629622
+
+5npeb4acxdh744455 is not the same interior color as wp0ca2988xu629622
+
+5npeb4acxdh744455 is not the same market price as wp0ca2988xu629622
+
+5npeb4acxdh744455 is not the same selling price as wp0ca2988xu629622
+
+5npeb4acxdh744455 is not the same condition as wp0ca2988xu629622
+
+5npeb4acxdh744455 is not the same odometer as wp0ca2988xu629622
+
+5npeb4acxdh744455 is not the same production year as wp0ca2988xu629622
+
+5npeb4acxdh744455 is not the same body as wp0ca2988xu629622
+
+5npeb4acxdh744455 is the same transmission as wp0ca2988xu629622
+
+
+5npeb4acxdh744455 is not the same make as 2c4rdgeg8er151143
+
+5npeb4acxdh744455 is not the same color as 2c4rdgeg8er151143
+
+5npeb4acxdh744455 is not the same interior color as 2c4rdgeg8er151143
+
+5npeb4acxdh744455 is not the same market price as 2c4rdgeg8er151143
+
+5npeb4acxdh744455 is not the same selling price as 2c4rdgeg8er151143
+
+5npeb4acxdh744455 is not the same condition as 2c4rdgeg8er151143
+
+5npeb4acxdh744455 is not the same odometer as 2c4rdgeg8er151143
+
+5npeb4acxdh744455 is not the same production year as 2c4rdgeg8er151143
+
+5npeb4acxdh744455 is not the same body as 2c4rdgeg8er151143
+
+5npeb4acxdh744455 is the same transmission as 2c4rdgeg8er151143
+
+
+5npeb4acxdh744455 is not the same make as wbayp9c59ed169280
+
+5npeb4acxdh744455 is not the same color as wbayp9c59ed169280
+
+5npeb4acxdh744455 is not the same interior color as wbayp9c59ed169280
+
+5npeb4acxdh744455 is not the same market price as wbayp9c59ed169280
+
+5npeb4acxdh744455 is not the same selling price as wbayp9c59ed169280
+
+5npeb4acxdh744455 is not the same condition as wbayp9c59ed169280
+
+5npeb4acxdh744455 is not the same odometer as wbayp9c59ed169280
+
+5npeb4acxdh744455 is not the same production year as wbayp9c59ed169280
+
+5npeb4acxdh744455 is not the same body as wbayp9c59ed169280
+
+5npeb4acxdh744455 is the same transmission as wbayp9c59ed169280
+
+
+
+
+

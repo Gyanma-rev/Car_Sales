@@ -1,0 +1,33 @@
+car('wba6b2c57ed129731', 'bmw', '6-series-gran-coupe', 16071, 'sedan', 'automatic').
+car_sold(415918, 'wba6b2c57ed129731').
+auction(415918, 'financial-services-remarketing-(lease)', 'ca', 67000, 16422, 4.3, 2641.0, 'gray', 'black', 66000, 'true').
+
+
+car('wp0ca2988xu629622', 'porsche', 'boxster', 10592, 'convertible', 'automatic').
+car_sold(677456, 'wp0ca2988xu629622').
+car_sold(296654, 'wp0ca2988xu629622').
+car_sold(931529, 'wp0ca2988xu629622').
+car_sold(777543, 'wp0ca2988xu629622').
+auction(677456, 'aaero-sweet-company', 'ca', 5800, 16442, 2.8, 82131.0, 'silver', 'black', 6000, 'false').
+auction(296654, 'aaero-sweet-company', 'ca', 4900, 16464, 1.9, 82143.0, 'silver', 'black', 5425, 'false').
+auction(931529, 'aaero-sweet-company', 'ca', 4200, 16491, 2.5, 82168.0, 'silver', 'black', 5875, 'false').
+auction(777543, 'econo-automotive-center-inc', 'ca', 6000, 16590, 3.7, 82176.0, 'silver', 'black', 6625, 'true').
+
+
+car('2c4rdgeg8er151143', 'dodge', 'grand-caravan', 16071, 'minivan', 'automatic').
+car_sold(752527, '2c4rdgeg8er151143').
+car_sold(895137, '2c4rdgeg8er151143').
+car_sold(104435, '2c4rdgeg8er151143').
+auction(752527, 'ge-fleet-services-for-itself/servicer', 'in', 18200, 16422, 4.3, 37330.0, 'gray', 'black', 19100, 'false').
+auction(895137, 'sullivan-auto-group-llc', 'mo', 18200, 16476, 4.7, 37338.0, 'gray', 'black', 18500, 'false').
+auction(104435, 'enterprise-veh-exchange/rental', 'mo', 17800, 16588, 4.3, 39155.0, 'unknown', 'black', 17650, 'true').
+
+
+car('wbayp9c59ed169280', 'bmw', '6-series', 16071, 'convertible', 'automatic').
+car_sold(167556, 'wbayp9c59ed169280').
+auction(167556, 'the-hertz-corporation', 'ca', 65000, 16422, 3.7, 15727.0, 'white', 'black', 66000, 'true').
+
+
+car('5npeb4acxdh744455', 'hyundai', 'sonata', 15706, 'sedan', 'automatic').
+car_sold(616067, '5npeb4acxdh744455').
+auction(616067, 'avis-corporation', 'ca', 11900, 16422, 3.5, 41888.0, 'gray', 'gray', 11800, 'true').
